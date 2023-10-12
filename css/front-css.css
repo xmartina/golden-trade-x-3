@@ -32,6 +32,9 @@ html .invest_plan{
 /*    transform: scale(.9%);*/
 /*}*/
 @media (max-width: 400px){
+    html .plan_logo{
+        width: 40%;
+    }
     html .flex-sm{
         flex-direction: row !important;
     }
