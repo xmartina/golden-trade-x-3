@@ -532,7 +532,7 @@
                         <div class="col-lg-4">
                             <div class="text-warning invest_request">7.15M Requests . 9%</div>
                             <div class="invest_plan">
-                                <span class="font-weight-bold">Min</span> : $600 - $3000 <br> | <br> <span class="font-weight-bold">Max</span>
+                                <span class="font-weight-bold">Min</span> : $600<br class="br_invest">  | <br> $3000 <span class="font-weight-bold">Max</span>
                             </div>
                         </div>
                     </div>

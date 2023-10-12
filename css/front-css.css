@@ -20,8 +20,11 @@ html .line-height-1-9{
 html .invest_request{
     font-size: 9px;
 }
+html .br_invest{
+    font-size: 5px;
+}
 html .invest_plan{
     font-size: 13px !important;
-    line-height: 1.3;
+    line-height: 1.1;
     color:#0b1d26;
 }
