@@ -522,7 +522,7 @@
                 <div class="py-2 px-4 shadow rounded">
                     <div class="row">
                         <div class="col-lg-3">
-                            <div class="plan_logo bg-gray-300 shadow p-2 rounded">
+                            <div class="plan_logo bg-gray-300 shadow p-2 rounded-circle">
                                 <img src="/assets/images/investment-logo/640px-Dow_Jones_Logo.svg.png" alt="(Dow jones)- Dow Jones Industrial Average" class="w-100">
                             </div>
                         </div>
