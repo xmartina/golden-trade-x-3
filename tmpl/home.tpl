@@ -517,8 +517,8 @@
                 </div>
             </div>
         </div>
-        <div class="row my-5">
-            <div class="col-lg-5 col-md-6">
+        <div class="row my-5 owl-carousel">
+            <div class="col-lg-5 item col-md-6">
                 <div class="py-2 px-4 shadow rounded">
                     <div class="row align-items-center">
                         <div class="col-lg-3">

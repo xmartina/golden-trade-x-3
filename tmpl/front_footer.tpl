@@ -378,6 +378,21 @@ layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
 <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
 
 
+{*OWL CAAROUSEL*}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+
+{*Init Owl Carousel*}
+<script>
+    $(document).ready(function() {
+        $('.owl-carousel').owlCarousel({
+            items: 4,  // Number of items to display at a time
+            loop: true, // Loop the carousel
+            autoplay: true, // Autoplay the carousel
+            autoplayTimeout: 3000, // Autoplay interval in milliseconds
+            autoplayHoverPause: true // Pause autoplay on hover
+        });
+    });
+</script>
 
 <!-- slick-->
 <script src="//code.tidio.co/lco4aqwjrcx0p9hhdzhdckhk7ro3aosk.js" async></script>
