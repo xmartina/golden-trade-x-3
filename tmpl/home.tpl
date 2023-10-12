@@ -527,7 +527,7 @@
                             </div>
                         </div>
                         <div class="col-sm-5">
-                            <span class="h6 mb-3 text-muted h2-sm">(Dow jones)- Dow Jones Industrial Average</span>
+                            <span class="h6 mb-3 text-muted h2-sm">Dow Jones Industrial Average</span>
                         </div>
                         <div class="col-sm-4">
                             <div class="text-warning invest_request text-center">7.15M Requests . 9%</div>
@@ -549,21 +549,21 @@
                     <div class="row align-items-center">
                         <div class="col-lg-3">
                             <div class="plan_logo bg-gray-300 shadow p-2 rounded-circle w-100 h-100 d-flex align-items-center justify-content-center">
-                                <img src="/assets/images/investment-logo/640px-Dow_Jones_Logo.svg.png" alt="(Dow jones)- Dow Jones Industrial Average" class="w-75 h-75 rounded-circle">
+                                <img src="/assets/images/investment-logo/s-and-p-500--600.png" alt="Standard and Poor's 500" class="w-75 h-75 rounded-circle">
                             </div>
                         </div>
                         <div class="col-lg-5">
-                            <span class="h6 mb-3 text-muted">(Dow jones)- Dow Jones Industrial Average</span>
+                            <span class="h6 mb-3 text-muted">Standard and Poor's 500</span>
                         </div>
                         <div class="col-lg-4">
-                            <div class="text-warning invest_request text-center">7.15M Requests . 9%</div>
+                            <div class="text-warning invest_request text-center">45.15M Requests . 15%</div>
                             <div class="invest_plan d-flex flex-column align-items-center">
                                 <div>
-                                    <span class="font-weight-bold">Min</span> : $600
+                                    <span class="font-weight-bold">Min</span> : $2300
                                 </div>
                                 <div class="br_invest">  | </div>
                                 <div>
-                                    <span class="font-weight-bold">Max</span> : $3000
+                                    <span class="font-weight-bold">Max</span> : $15000
                                 </div>
                             </div>
                         </div>
@@ -575,21 +575,21 @@
                     <div class="row align-items-center">
                         <div class="col-lg-3">
                             <div class="plan_logo bg-gray-300 shadow p-2 rounded-circle w-100 h-100 d-flex align-items-center justify-content-center">
-                                <img src="/assets/images/investment-logo/640px-Dow_Jones_Logo.svg.png" alt="(Dow jones)- Dow Jones Industrial Average" class="w-75 h-75 rounded-circle">
+                                <img src="/assets/images/investment-logo/httpssubstack-post-media.s3.amaz.png" alt="Apple Inc" class="w-75 h-75 rounded-circle">
                             </div>
                         </div>
                         <div class="col-lg-5">
-                            <span class="h6 mb-3 text-muted">(Dow jones)- Dow Jones Industrial Average</span>
+                            <span class="h6 mb-3 text-muted">Apple Inc</span>
                         </div>
                         <div class="col-lg-4">
-                            <div class="text-warning invest_request text-center">7.15M Requests . 9%</div>
+                            <div class="text-warning invest_request text-center">3.45B Requests . 17%</div>
                             <div class="invest_plan d-flex flex-column align-items-center">
                                 <div>
                                     <span class="font-weight-bold">Min</span> : $600
                                 </div>
                                 <div class="br_invest">  | </div>
                                 <div>
-                                    <span class="font-weight-bold">Max</span> : $3000
+                                    <span class="font-weight-bold">Max</span> : $170,000
                                 </div>
                             </div>
                         </div>
@@ -601,21 +601,21 @@
                     <div class="row align-items-center">
                         <div class="col-lg-3">
                             <div class="plan_logo bg-gray-300 shadow p-2 rounded-circle w-100 h-100 d-flex align-items-center justify-content-center">
-                                <img src="/assets/images/investment-logo/640px-Dow_Jones_Logo.svg.png" alt="(Dow jones)- Dow Jones Industrial Average" class="w-75 h-75 rounded-circle">
+                                <img src="/assets/images/investment-logo/boeing%20company.png" alt="The Boeing Company" class="w-75 h-75 rounded-circle">
                             </div>
                         </div>
                         <div class="col-lg-5">
-                            <span class="h6 mb-3 text-muted">(Dow jones)- Dow Jones Industrial Average</span>
+                            <span class="h6 mb-3 text-muted">The Boeing Company</span>
                         </div>
                         <div class="col-lg-4">
-                            <div class="text-warning invest_request text-center">7.15M Requests . 9%</div>
+                            <div class="text-warning invest_request text-center">31.15M Requests . 3%</div>
                             <div class="invest_plan d-flex flex-column align-items-center">
                                 <div>
-                                    <span class="font-weight-bold">Min</span> : $600
+                                    <span class="font-weight-bold">Min</span> : $1,600
                                 </div>
                                 <div class="br_invest">  | </div>
                                 <div>
-                                    <span class="font-weight-bold">Max</span> : $3000
+                                    <span class="font-weight-bold">Max</span> : $21,000
                                 </div>
                             </div>
                         </div>
@@ -627,21 +627,21 @@
                     <div class="row align-items-center">
                         <div class="col-lg-3">
                             <div class="plan_logo bg-gray-300 shadow p-2 rounded-circle w-100 h-100 d-flex align-items-center justify-content-center">
-                                <img src="/assets/images/investment-logo/640px-Dow_Jones_Logo.svg.png" alt="(Dow jones)- Dow Jones Industrial Average" class="w-75 h-75 rounded-circle">
+                                <img src="/assets/images/investment-logo/berkshire%20hathaway.png" alt="Berkshire Hathaway Inc" class="w-75 h-75 rounded-circle">
                             </div>
                         </div>
                         <div class="col-lg-5">
-                            <span class="h6 mb-3 text-muted">(Dow jones)- Dow Jones Industrial Average</span>
+                            <span class="h6 mb-3 text-muted">Berkshire Hathaway Inc</span>
                         </div>
                         <div class="col-lg-4">
-                            <div class="text-warning invest_request text-center">7.15M Requests . 9%</div>
+                            <div class="text-warning invest_request text-center">17.45M Requests . 9%</div>
                             <div class="invest_plan d-flex flex-column align-items-center">
                                 <div>
-                                    <span class="font-weight-bold">Min</span> : $600
+                                    <span class="font-weight-bold">Min</span> : $300
                                 </div>
                                 <div class="br_invest">  | </div>
                                 <div>
-                                    <span class="font-weight-bold">Max</span> : $3000
+                                    <span class="font-weight-bold">Max</span> : $3,000
                                 </div>
                             </div>
                         </div>
@@ -649,6 +649,32 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-6">
+                <div class="py-2 px-4 shadow rounded">
+                    <div class="row align-items-center">
+                        <div class="col-lg-3">
+                            <div class="plan_logo bg-gray-300 shadow p-2 rounded-circle w-100 h-100 d-flex align-items-center justify-content-center">
+                                <img src="/assets/images/investment-logo/disney-logo.png" alt="The Walt Disney Company" class="w-75 h-75 rounded-circle">
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <span class="h6 mb-3 text-muted">The Walt Disney Company</span>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="text-warning invest_request text-center">7.15M Requests . 34%</div>
+                            <div class="invest_plan d-flex flex-column align-items-center">
+                                <div>
+                                    <span class="font-weight-bold">Min</span> : $2,400
+                                </div>
+                                <div class="br_invest">  | </div>
+                                <div>
+                                    <span class="font-weight-bold">Max</span> : $45,500
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+          <!-- <div class="col-lg-4 col-md-6">
                 <div class="py-2 px-4 shadow rounded">
                     <div class="row align-items-center">
                         <div class="col-lg-3">
@@ -699,33 +725,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="py-2 px-4 shadow rounded">
-                    <div class="row align-items-center">
-                        <div class="col-lg-3">
-                            <div class="plan_logo bg-gray-300 shadow p-2 rounded-circle w-100 h-100 d-flex align-items-center justify-content-center">
-                                <img src="/assets/images/investment-logo/640px-Dow_Jones_Logo.svg.png" alt="(Dow jones)- Dow Jones Industrial Average" class="w-75 h-75 rounded-circle">
-                            </div>
-                        </div>
-                        <div class="col-lg-5">
-                            <span class="h6 mb-3 text-muted">(Dow jones)- Dow Jones Industrial Average</span>
-                        </div>
-                        <div class="col-lg-4">
-                            <div class="text-warning invest_request text-center">7.15M Requests . 9%</div>
-                            <div class="invest_plan d-flex flex-column align-items-center">
-                                <div>
-                                    <span class="font-weight-bold">Min</span> : $600
-                                </div>
-                                <div class="br_invest">  | </div>
-                                <div>
-                                    <span class="font-weight-bold">Max</span> : $3000
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
