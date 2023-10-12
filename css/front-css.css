@@ -28,3 +28,11 @@ html .invest_plan{
     line-height: 1.1;
     color:#0b1d26;
 }
+/*html .stock_plan_row:hover{*/
+/*    transform: scale(.9%);*/
+/*}*/
+@media (max-width: 400px){
+    .html .h2-sm{
+        font-size: 19px;
+    }
+}
