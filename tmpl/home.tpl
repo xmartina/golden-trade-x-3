@@ -520,7 +520,7 @@
         <div class="row my-5">
             <div class="col-lg-3">
                 <div class="py-2 px-4 shadow rounded">
-                    <span class="h4 mb-3 text-muted">(Dow jones)- Dow Jones Industrial Average</span>
+                    <span class="h6 mb-3 text-muted">(Dow jones)- Dow Jones Industrial Average</span>
                     <div class="text-warning">7.15M Requests . 9%</div>
 
                 </div>
