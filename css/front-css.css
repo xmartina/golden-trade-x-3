@@ -33,7 +33,7 @@ html .invest_plan{
 /*}*/
 @media (max-width: 400px){
     html .plan_logo{
-        width: 40%;
+        width: 40% !important;
     }
     html .flex-sm{
         flex-direction: row !important;
