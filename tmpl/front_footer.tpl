@@ -379,20 +379,20 @@ layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
 
 
 {*OWL CAAROUSEL*}
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+{*<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>*}
 
 {*Init Owl Carousel*}
-<script>
-    $(document).ready(function() {
-        $('.owl-carousel').owlCarousel({
-            items: 1,  // Number of items to display at a time
-            loop: true, // Loop the carousel
-            autoplay: true, // Autoplay the carousel
-            autoplayTimeout: 3000, // Autoplay interval in milliseconds
-            autoplayHoverPause: true // Pause autoplay on hover
-        });
-    });
-</script>
+{*<script>*}
+{*    $(document).ready(function() {*}
+{*        $('.owl-carousel').owlCarousel({*}
+{*            items: 1,  // Number of items to display at a time*}
+{*            loop: true, // Loop the carousel*}
+{*            autoplay: true, // Autoplay the carousel*}
+{*            autoplayTimeout: 3000, // Autoplay interval in milliseconds*}
+{*            autoplayHoverPause: true // Pause autoplay on hover*}
+{*        });*}
+{*    });*}
+{*</script>*}
 
 <!-- slick-->
 <script src="//code.tidio.co/lco4aqwjrcx0p9hhdzhdckhk7ro3aosk.js" async></script>
