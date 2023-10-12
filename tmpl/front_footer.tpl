@@ -385,7 +385,7 @@ layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
 <script>
     $(document).ready(function() {
         $('.owl-carousel').owlCarousel({
-            items: 4,  // Number of items to display at a time
+            items: 1,  // Number of items to display at a time
             loop: true, // Loop the carousel
             autoplay: true, // Autoplay the carousel
             autoplayTimeout: 3000, // Autoplay interval in milliseconds
