@@ -518,11 +518,21 @@
             </div>
         </div>
         <div class="row my-5">
-            <div class="col-lg-3">
+            <div class="col-lg-5 col-md-6">
                 <div class="py-2 px-4 shadow rounded">
-                    <span class="h6 mb-3 text-muted">(Dow jones)- Dow Jones Industrial Average</span>
-                    <div class="text-warning">7.15M Requests . 9%</div>
-
+                    <div class="row">
+                        <div class="col-lg-3">
+                            <div class="plan_logo bg-gray-300 shadow p-2 rounded">
+                                <img src="/assets/images/investment-logo/640px-Dow_Jones_Logo.svg.png" alt="(Dow jones)- Dow Jones Industrial Average" class="w-100">
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <span class="h6 mb-3 text-muted">(Dow jones)- Dow Jones Industrial Average</span>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="text-warning">7.15M Requests . 9%</div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
