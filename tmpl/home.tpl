@@ -530,7 +530,7 @@
                             <span class="h6 mb-3 text-muted">(Dow jones)- Dow Jones Industrial Average</span>
                         </div>
                         <div class="col-lg-4">
-                            <div class="text-warning">7.15M Requests . 9%</div>
+                            <div class="text-warning invest_request">7.15M Requests . 9%</div>
                             <div class="invest_plan">
                                 <span class="font-weight-bold">Min</span> : $600 - $3000 : <span class="font-weight-bold">Max</span>
                             </div>

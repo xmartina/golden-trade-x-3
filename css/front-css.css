@@ -17,6 +17,10 @@ html .contact-heading{
 html .line-height-1-9{
     line-height:1.9!important;
 }
+html .invest_request{
+    font-size: 4px;
+}
 html .invest_plan{
-    font-size: 9px !important;
+    font-size: 6px !important;
+    color:#0b1d26;
 }
