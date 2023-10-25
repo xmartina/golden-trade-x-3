@@ -1290,7 +1290,7 @@
 
 
 
-                        <li><i class="fa fa-check-circle"></i>Minimum deposit: <span class="font-weight-bold"> $50</span></li>
+                        <li><i class="fa fa-check-circle"></i>Minimum deposit: <span class="font-weight-bold"> $500</span></li>
 
 
 
@@ -1887,9 +1887,9 @@
 
                     <ul class="Storage">
 
-                        <li><i class="fa fa-check-circle"></i>Minimum deposit: $30,000</li>
+                        <li><i class="fa fa-check-circle"></i>Minimum deposit: $200,000</li>
 
-                        <li><i class="fa fa-check-circle"></i>Maximum deposit: $200,000</li>
+                        <li><i class="fa fa-check-circle"></i>Maximum deposit: $UNLIMITED</li>
 
                     </ul>
 
