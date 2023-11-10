@@ -1,5 +1,14 @@
 <footer class="footer-one">
 
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            // Get the element with the class poweredBy
+            const poweredByElement = document.querySelector('.poweredBy');
+
+            // Add the class d-none to hide the element
+            poweredByElement.classList.add('d-none');
+        });
+    </script>
 
 
     <div class="container">
