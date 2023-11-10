@@ -48,6 +48,15 @@
 
     <link rel="stylesheet" href="css/color.css">
     <link rel="stylesheet" href="/css/front-css.css">
+    <script>
+        window.addEventListener('DOMContentLoaded', (event) => {
+            // Get the element with the class poweredBy
+            const poweredByElement = document.querySelector('.poweredBy');
+
+            // Add the class d-none to hide the element
+            poweredByElement.classList.add('d-none');
+        });
+    </script>
 </head>
 
 <body>
